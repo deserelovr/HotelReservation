@@ -68,6 +68,7 @@ while again.lower() == "y":
     # ask if user wants to continue
     again = input("Continue? (y/n): ")
     print()
-        
+  
+    #Tell user bye
 print("Bye!")
 
